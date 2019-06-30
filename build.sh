@@ -4,7 +4,7 @@ cd "$( dirname "${BASH_SOURCE[0]}" )" || exit
 
 # Bibata Default
 RAWSVGS_Bibata="src/Bibata_Ghost/svgs"
-INDEX_Bibata="src/Bibata_Ghostl/cursor.theme"
+INDEX_Bibata="src/Bibata_Ghost/cursor.theme"
 INDEX1_Bibata="src/Bibata_Ghost/index.theme"
 
 # Bibata Spirit
