@@ -1,13 +1,13 @@
-<a href="https://github.com/Silicasandwhich/Bibata_Cursor">
-  <p align="center"><img title="Bibata" src="https://github.com/Silicasandwhich/Bibata_Cursor_Transulent/blob/master/image/Bibata.png"></p>
+<a href="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent">
+  <p align="center"><img title="Bibata" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata.png"></p>
 </a>
 
 [![HitCount](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent.svg)](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub contributors](https://img.shields.io/github/contributors/Silicasandwhich/Bibata_Cursor_Transucent.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Silicasandwhich/Bibata_Cursor_Translucent.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/commit-activity)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-red.svg)
-[![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/Silicasandwhich/Bibata_Cursor_Transucent/blob/master/CODE_OF_CONDUCT.md)
+[![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/CODE_OF_CONDUCT.md)
 
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
