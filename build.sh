@@ -9,7 +9,7 @@ INDEX1_Bibata="src/Bibata_Ghost/index.theme"
 
 # Bibata Spirit
 
-RAWSVGS_Bibata_Spirit="src/Bibata_Sprit/svgs"
+RAWSVGS_Bibata_Spirit="src/Bibata_Spirit/svgs"
 INDEX_Bibata_Spirit="src/Bibata_Spirit/cursor.theme"
 INDEX1_Bibata_Spirit="src/Bibata_Spirit/index.theme"
 
