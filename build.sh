@@ -3,21 +3,21 @@
 cd "$( dirname "${BASH_SOURCE[0]}" )" || exit
 
 # Bibata Default
-RAWSVGS_Bibata="src/Bibata_Oil/svgs"
-INDEX_Bibata="src/Bibata_Oil/cursor.theme"
-INDEX1_Bibata="src/Bibata_Oil/index.theme"
+RAWSVGS_Bibata="src/Bibata_Ghost/svgs"
+INDEX_Bibata="src/Bibata_Ghostl/cursor.theme"
+INDEX1_Bibata="src/Bibata_Ghost/index.theme"
 
-# Bibata Light
+# Bibata Spirit
 
-RAWSVGS_Bibata_Light="src/Bibata_Ice/svgs"
-INDEX_Bibata_Light="src/Bibata_Ice/cursor.theme"
-INDEX1_Bibata_Light="src/Bibata_Ice/index.theme"
+RAWSVGS_Bibata_Spirit="src/Bibata_Sprit/svgs"
+INDEX_Bibata_Spirit="src/Bibata_Spirit/cursor.theme"
+INDEX1_Bibata_Spirit="src/Bibata_Spirit/index.theme"
 
-# Bibata Amber
+# Bibata Tinted
 
-RAWSVGS_Bibata_Amber="src/Bibata_Amber/svgs"
-INDEX_Bibata_Amber="src/Bibata_Amber/cursor.theme"
-INDEX1_Bibata_Amber="src/Bibata_Amber/index.theme"
+RAWSVGS_Bibata_Tinted="src/Bibata_Tinted/svgs"
+INDEX_Bibata_Tinted="src/Bibata_Tinted/cursor.theme"
+INDEX1_Bibata_Tinted="src/Bibata_Tinted/index.theme"
 
 ALIASES="src/cursorList"
 
@@ -38,62 +38,62 @@ echo -e "Checking Requirements... DONE"
 
 
 echo -ne "Making Folders... $BASENAME\\r"
-DIR11X_Bibata="build/Bibata_Oil/96x96"
-DIR10X_Bibata="build/Bibata_Oil/88x88"
-DIR9X_Bibata="build/Bibata_Oil/80x80"
-DIR8X_Bibata="build/Bibata_Oil/72x72"
-DIR7X_Bibata="build/Bibata_Oil/64x64"
-DIR6X_Bibata="build/Bibata_Oil/56x56"
-DIR5X_Bibata="build/Bibata_Oil/48x48"
-DIR4X_Bibata="build/Bibata_Oil/40x40"
-DIR3X_Bibata="build/Bibata_Oil/32x32"
-DIR2X_Bibata="build/Bibata_Oil/28x28"
-DIR1X_Bibata="build/Bibata_Oil/24x24"
+DIR11X_Bibata="build/Bibata_Ghost/96x96"
+DIR10X_Bibata="build/Bibata_Ghost/88x88"
+DIR9X_Bibata="build/Bibata_Ghost/80x80"
+DIR8X_Bibata="build/Bibata_Ghost/72x72"
+DIR7X_Bibata="build/Bibata_Ghost/64x64"
+DIR6X_Bibata="build/Bibata_Ghost/56x56"
+DIR5X_Bibata="build/Bibata_Ghost/48x48"
+DIR4X_Bibata="build/Bibata_Ghost/40x40"
+DIR3X_Bibata="build/Bibata_Ghost/32x32"
+DIR2X_Bibata="build/Bibata_Ghost/28x28"
+DIR1X_Bibata="build/Bibata_Ghost/24x24"
 
-DIR11X_Bibata_Light="build/Bibata_Ice/96x96"
-DIR10X_Bibata_Light="build/Bibata_Ice/88x88"
-DIR9X_Bibata_Light="build/Bibata_Ice/80x80"
-DIR8X_Bibata_Light="build/Bibata_Ice/72x72"
-DIR7X_Bibata_Light="build/Bibata_Ice/64x64"
-DIR6X_Bibata_Light="build/Bibata_Ice/56x56"
-DIR5X_Bibata_Light="build/Bibata_Ice/48x48"
-DIR4X_Bibata_Light="build/Bibata_Ice/40x40"
-DIR3X_Bibata_Light="build/Bibata_Ice/32x32"
-DIR2X_Bibata_Light="build/Bibata_Ice/28x28"
-DIR1X_Bibata_Light="build/Bibata_Ice/24x24"
+DIR11X_Bibata_Spirit="build/Bibata_Spirit/96x96"
+DIR10X_Bibata_Spirit="build/Bibata_Spirit/88x88"
+DIR9X_Bibata_Spirit="build/Bibata_Spirit/80x80"
+DIR8X_Bibata_Spirit="build/Bibata_Spirit/72x72"
+DIR7X_Bibata_Spirit="build/Bibata_Spirit/64x64"
+DIR6X_Bibata_Spirit="build/Bibata_Spirit/56x56"
+DIR5X_Bibata_Spirit="build/Bibata_Spirit/48x48"
+DIR4X_Bibata_Spirit="build/Bibata_Spirit/40x40"
+DIR3X_Bibata_Spirit="build/Bibata_Spirit/32x32"
+DIR2X_Bibata_Spirit="build/Bibata_Spirit/28x28"
+DIR1X_Bibata_Spirit="build/Bibata_Spirit/24x24"
 
 
-DIR11X_Bibata_Amber="build/Bibata_Amber/96x96"
-DIR10X_Bibata_Amber="build/Bibata_Amber/88x88"
-DIR9X_Bibata_Amber="build/Bibata_Amber/80x80"
-DIR8X_Bibata_Amber="build/Bibata_Amber/72x72"
-DIR7X_Bibata_Amber="build/Bibata_Amber/64x64"
-DIR6X_Bibata_Amber="build/Bibata_Amber/56x56"
-DIR5X_Bibata_Amber="build/Bibata_Amber/48x48"
-DIR4X_Bibata_Amber="build/Bibata_Amber/40x40"
-DIR3X_Bibata_Amber="build/Bibata_Amber/32x32"
-DIR2X_Bibata_Amber="build/Bibata_Amber/28x28"
-DIR1X_Bibata_Amber="build/Bibata_Amber/24x24"
+DIR11X_Bibata_Tinted="build/Bibata_Tinted/96x96"
+DIR10X_Bibata_Tinted="build/Bibata_Tinted/88x88"
+DIR9X_Bibata_Tinted="build/Bibata_Tinted/80x80"
+DIR8X_Bibata_Tinted="build/Bibata_Tinted/72x72"
+DIR7X_Bibata_Tinted="build/Bibata_Tinted/64x64"
+DIR6X_Bibata_Tinted="build/Bibata_Tinted/56x56"
+DIR5X_Bibata_Tinted="build/Bibata_Tinted/48x48"
+DIR4X_Bibata_Tinted="build/Bibata_Tinted/40x40"
+DIR3X_Bibata_Tinted="build/Bibata_Tinted/32x32"
+DIR2X_Bibata_Tinted="build/Bibata_Tinted/28x28"
+DIR1X_Bibata_Tinted="build/Bibata_Tinted/24x24"
 
 
 OUTPUT_Bibata="$(grep --only-matching --perl-regex "(?<=Name\=).*$" $INDEX_Bibata)"
 OUTPUT_Bibata=${OUTPUT_Bibata// /_}
-OUTPUT_Bibata_Light="$(grep --only-matching --perl-regex "(?<=Name\=).*$" $INDEX_Bibata_Light)"
-OUTPUT_Bibata_Light=${OUTPUT_Bibata_Light// /_}
-OUTPUT_Bibata_Amber="$(grep --only-matching --perl-regex "(?<=Name\=).*$" $INDEX_Bibata_Amber)"
-OUTPUT_Bibata_Amber=${OUTPUT_Bibata_Amber// /_}
+OUTPUT_Bibata_Spirit="$(grep --only-matching --perl-regex "(?<=Name\=).*$" $INDEX_Bibata_Spirit)"
+OUTPUT_Bibata_Spirit=${OUTPUT_Bibata_Spirit// /_}
+OUTPUT_Bibata_Tinted="$(grep --only-matching --perl-regex "(?<=Name\=).*$" $INDEX_Bibata_Tinted)"
+OUTPUT_Bibata_Tinted=${OUTPUT_Bibata_Tinted// /_}
 
 
 mkdir -p "$DIR11X_Bibata" "$DIR10X_Bibata" "$DIR9X_Bibata" "$DIR8X_Bibata" "$DIR7X_Bibata" "$DIR6X_Bibata" "$DIR5X_Bibata" "$DIR4X_Bibata" "$DIR3X_Bibata" "$DIR2X_Bibata" "$DIR1X_Bibata"
 
-mkdir -p "$DIR11X_Bibata_Light" "$DIR10X_Bibata_Light" "$DIR9X_Bibata_Light" "$DIR8X_Bibata_Light" "$DIR7X_Bibata_Light" "$DIR6X_Bibata_Light" "$DIR5X_Bibata_Light" "$DIR4X_Bibata_Light" "$DIR3X_Bibata_Light" "$DIR2X_Bibata_Light" "$DIR1X_Bibata_Light"
+mkdir -p "$DIR11X_Bibata_Spirit" "$DIR10X_Bibata_Spirit" "$DIR9X_Bibata_Spirit" "$DIR8X_Bibata_Spirit" "$DIR7X_Bibata_Spirit" "$DIR6X_Bibata_Spirit" "$DIR5X_Bibata_Spirit" "$DIR4X_Bibata_Spirit" "$DIR3X_Bibata_Spirit" "$DIR2X_Bibata_Spirit" "$DIR1X_Bibata_Spirit"
 
-mkdir -p "$DIR11X_Bibata_Amber" "$DIR10X_Bibata_Amber" "$DIR9X_Bibata_Amber" "$DIR8X_Bibata_Amber" "$DIR7X_Bibata_Amber" "$DIR6X_Bibata_Amber" "$DIR5X_Bibata_Amber" "$DIR4X_Bibata_Amber" "$DIR3X_Bibata_Amber" "$DIR2X_Bibata_Amber" "$DIR1X_Bibata_Amber"
+mkdir -p "$DIR11X_Bibata_Tinted" "$DIR10X_Bibata_Tinted" "$DIR9X_Bibata_Tinted" "$DIR8X_Bibata_Tinted" "$DIR7X_Bibata_Tinted" "$DIR6X_Bibata_Tinted" "$DIR5X_Bibata_Tinted" "$DIR4X_Bibata_Tinted" "$DIR3X_Bibata_Tinted" "$DIR2X_Bibata_Tinted" "$DIR1X_Bibata_Tinted"
 
 
 mkdir -p "$OUTPUT_Bibata/cursors"
-mkdir -p "$OUTPUT_Bibata_Light/cursors"
-mkdir -p "$OUTPUT_Bibata_Amber/cursors"
+mkdir -p "$OUTPUT_Bibata_Spirit/cursors"
+mkdir -p "$OUTPUT_Bibata_Tinted/cursors"
 echo 'Making Folders... DONE';
 
 
@@ -102,7 +102,7 @@ for CUR in src/config/*.cursor; do
     BASENAME=${BASENAME##*/}
     BASENAME=${BASENAME%.*}
 
-    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Oil... $BASENAME\\r"
+    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Ghost... $BASENAME\\r"
 
     inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata/"$BASENAME".svg -e "$DIR1X_Bibata/$BASENAME.png" > /dev/null
     inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata/"$BASENAME".svg -e "$DIR2X_Bibata/$BASENAME.png" > /dev/null
@@ -118,56 +118,56 @@ for CUR in src/config/*.cursor; do
 
 
 done
-    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Oil... DONE"
+    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Ghost... DONE"
 
 for CUR in src/config/*.cursor; do
     BASENAME=$CUR
     BASENAME=${BASENAME##*/}
     BASENAME=${BASENAME%.*}
 
-    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Ice.. $BASENAME\\r"
+    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Spirit.. $BASENAME\\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR1X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR2X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR3X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR4X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR5X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR6X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR7X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR8X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR9X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR10X_Bibata_Light/$BASENAME.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Light/"$BASENAME".svg -e "$DIR11X_Bibata_Light/$BASENAME.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR1X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR2X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR3X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR4X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR5X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR6X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR7X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR8X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR9X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR10X_Bibata_Spirit/$BASENAME.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Spirit/"$BASENAME".svg -e "$DIR11X_Bibata_Spirit/$BASENAME.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Ice... DONE"
+    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Spirit... DONE"
 
 for CUR in src/config/*.cursor; do
     BASENAME=$CUR
     BASENAME=${BASENAME##*/}
     BASENAME=${BASENAME%.*}
 
-    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Amber.. $BASENAME\\r"
+    echo -ne "\033[0KGenerating simple cursor pixmaps OF Bibata Tinted.. $BASENAME\\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR1X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR2X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR3X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR4X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR5X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR6X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR7X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR8X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR9X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR10X_Bibata_Amber/$BASENAME.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Amber/"$BASENAME".svg -e "$DIR11X_Bibata_Amber/$BASENAME.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR1X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR2X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR3X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR4X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR5X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR6X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR7X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR8X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR9X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR10X_Bibata_Tinted/$BASENAME.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Tinted/"$BASENAME".svg -e "$DIR11X_Bibata_Tinted/$BASENAME.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Amber... DONE"
+    echo -e "\033[0KGenerating simple cursor pixmaps OF Bibata Tinted... DONE"
 
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Oil... \\r"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Ghost... \\r"
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Oil Process... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Ghost Process... $i / 45 \\r"
 
     inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata/progress-$i.svg -e "$DIR1X_Bibata/progress-$i.png" > /dev/null
     inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata/progress-$i.svg -e "$DIR2X_Bibata/progress-$i.png" > /dev/null
@@ -182,11 +182,11 @@ do
     inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata/progress-$i.svg -e "$DIR11X_Bibata/progress-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Oil Process... DONE"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Ghost Process... DONE"
 
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Oil Wait... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Ghost Wait... $i / 45 \\r"
 
     inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata/wait-$i.svg -e "$DIR1X_Bibata/wait-$i.png" > /dev/null
     inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata/wait-$i.svg -e "$DIR2X_Bibata/wait-$i.png" > /dev/null
@@ -201,87 +201,87 @@ do
     inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata/wait-$i.svg -e "$DIR11X_Bibata/wait-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Oil Wait... DONE"
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Oil... DONE \\r"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Ghost Wait... DONE"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Ghost... DONE \\r"
 
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Ice... \\r"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Spirit... \\r"
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Ice Process... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Spirit Process... $i / 45 \\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR1X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR2X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR3X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR4X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR5X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR6X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR7X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR8X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR9X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR10X_Bibata_Light/progress-$i.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Light/progress-$i.svg -e "$DIR11X_Bibata_Light/progress-$i.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR1X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR2X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR3X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR4X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR5X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR6X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR7X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR8X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR9X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR10X_Bibata_Spirit/progress-$i.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Spirit/progress-$i.svg -e "$DIR11X_Bibata_Spirit/progress-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Ice Process... DONE"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Spirit Process... DONE"
 
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Ice Wait... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Spirit Wait... $i / 45 \\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR1X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR2X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR3X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR4X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR5X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR6X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR7X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR8X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR9X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR10X_Bibata_Light/wait-$i.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Light/wait-$i.svg -e "$DIR11X_Bibata_Light/wait-$i.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR1X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR2X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR3X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR4X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR5X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR6X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR7X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR8X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR9X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR10X_Bibata_Spirit/wait-$i.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Spirit/wait-$i.svg -e "$DIR11X_Bibata_Spirit/wait-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Ice Wait... DONE"
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Ice... DONE \\r"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Spirit Wait... DONE"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Spirit... DONE \\r"
 
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Amber...  \\r"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Tinted...  \\r"
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Amber Process... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Tinted Process... $i / 45 \\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR1X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR2X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR3X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR4X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR5X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR6X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR7X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR8X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR9X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR10X_Bibata_Amber/progress-$i.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Amber/progress-$i.svg -e "$DIR11X_Bibata_Amber/progress-$i.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR1X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR2X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR3X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR4X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR5X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR6X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR7X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR8X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR9X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR10X_Bibata_Tinted/progress-$i.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Tinted/progress-$i.svg -e "$DIR11X_Bibata_Tinted/progress-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Amber Process... DONE"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Tinted Process... DONE"
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 do
-    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Amber Wait... $i / 45 \\r"
+    echo -ne "\033[0KGenerating animated cursor pixmaps For Bibata Tinted Wait... $i / 45 \\r"
 
-    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR1X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR2X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR3X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR4X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR5X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR6X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR7X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR8X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR9X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR10X_Bibata_Amber/wait-$i.png" > /dev/null
-    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Amber/wait-$i.svg -e "$DIR11X_Bibata_Amber/wait-$i.png" > /dev/null
+    inkscape -w 24 -h 24 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR1X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 28 -h 28 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR2X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 32 -h 32 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR3X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 40 -h 40 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR4X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 48 -h 48 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR5X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 56 -h 56 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR6X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 64 -h 64 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR7X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 72 -h 72 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR8X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 80 -h 80 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR9X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 88 -h 88 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR10X_Bibata_Tinted/wait-$i.png" > /dev/null
+    inkscape -w 96 -h 96 --without-gui -f $RAWSVGS_Bibata_Tinted/wait-$i.svg -e "$DIR11X_Bibata_Tinted/wait-$i.png" > /dev/null
 
 done
-    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Amber Wait... DONE"
-    echo -ne "\033[0KGenerating Animated Cursor Bibata Amber... DONE \\r"
+    echo -e "\033[0KGenerating animated cursor pixmaps For Bibata Tinted Wait... DONE"
+    echo -ne "\033[0KGenerating Animated Cursor Bibata Tinted... DONE \\r"
 
 echo -ne "Generating cursor theme...\\r"
 for CUR in src/config/*.cursor; do
@@ -289,19 +289,19 @@ for CUR in src/config/*.cursor; do
     BASENAME=${BASENAME##*/}
     BASENAME=${BASENAME%.*}
 
-    ERR="$( xcursorgen -p build/Bibata_Oil "$CUR" "$OUTPUT_Bibata/cursors/$BASENAME" 2>&1 )"
+    ERR="$( xcursorgen -p build/Bibata_Ghost "$CUR" "$OUTPUT_Bibata/cursors/$BASENAME" 2>&1 )"
 
     if [[ "$?" -ne "0" ]]; then
         echo "FAIL: $CUR $ERR"
     fi
 
-    ERR="$( xcursorgen -p build/Bibata_Ice "$CUR" "$OUTPUT_Bibata_Light/cursors/$BASENAME" 2>&1 )"
+    ERR="$( xcursorgen -p build/Bibata_Spirit "$CUR" "$OUTPUT_Bibata_Spirit/cursors/$BASENAME" 2>&1 )"
 
     if [[ "$?" -ne "0" ]]; then
         echo "FAIL: $CUR $ERR"
     fi
 
-    ERR="$( xcursorgen -p build/Bibata_Amber "$CUR" "$OUTPUT_Bibata_Amber/cursors/$BASENAME" 2>&1 )"
+    ERR="$( xcursorgen -p build/Bibata_Tinted "$CUR" "$OUTPUT_Bibata_Tinted/cursors/$BASENAME" 2>&1 )"
 
     if [[ "$?" -ne "0" ]]; then
         echo "FAIL: $CUR $ERR"
@@ -321,15 +321,15 @@ while read -r ALIAS ; do
     fi
     ln -s "$TO" "$OUTPUT_Bibata/cursors/$FROM"
 
-    if [ -e "$OUTPUT_Bibata_Light/cursors/$FROM" ] ; then
+    if [ -e "$OUTPUT_Bibata_Spirit/cursors/$FROM" ] ; then
         continue
     fi
-    ln -s "$TO" "$OUTPUT_Bibata_Light/cursors/$FROM"
+    ln -s "$TO" "$OUTPUT_Bibata_Spirit/cursors/$FROM"
 
-    if [ -e "$OUTPUT_Bibata_Amber/cursors/$FROM" ] ; then
+    if [ -e "$OUTPUT_Bibata_Tinted/cursors/$FROM" ] ; then
         continue
     fi
-    ln -s "$TO" "$OUTPUT_Bibata_Amber/cursors/$FROM"
+    ln -s "$TO" "$OUTPUT_Bibata_Tinted/cursors/$FROM"
 
 done < $ALIASES
 echo -e "\033[0KGenerating shortcuts... DONE"
@@ -342,13 +342,13 @@ echo -ne "Copying Theme Index...\\r"
         cp $INDEX1_Bibata "$OUTPUT_Bibata/index.theme"
     fi
 
-    if ! [ -e "$OUTPUT_Bibata_Light/$INDEX_Bibata_Light" ] ; then
-        cp $INDEX_Bibata_Light "$OUTPUT_Bibata_Light/cursor.theme"
-        cp $INDEX1_Bibata_Light "$OUTPUT_Bibata_Light/index.theme"
+    if ! [ -e "$OUTPUT_Bibata_Spirit/$INDEX_Bibata_Spirit" ] ; then
+        cp $INDEX_Bibata_Spirit "$OUTPUT_Bibata_Spirit/cursor.theme"
+        cp $INDEX1_Bibata_Spirit "$OUTPUT_Bibata_Spirit/index.theme"
     fi
-    if ! [ -e "$OUTPUT_Bibata_Amber/$INDEX_Bibata_Amber" ] ; then
-        cp $INDEX_Bibata_Amber "$OUTPUT_Bibata_Amber/cursor.theme"
-        cp $INDEX1_Bibata_Amber "$OUTPUT_Bibata_Amber/index.theme"
+    if ! [ -e "$OUTPUT_Bibata_Tinted/$INDEX_Bibata_Tinted" ] ; then
+        cp $INDEX_Bibata_Tinted "$OUTPUT_Bibata_Tinted/cursor.theme"
+        cp $INDEX1_Bibata_Tinted "$OUTPUT_Bibata_Tinted/index.theme"
     fi
 echo -e "\033[0KCopying Theme Index... DONE"
 
