@@ -28,16 +28,16 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
 <!--ts-->
    * [How to get Project Message and Updates](#how-to-get-project-message-and-updates)
    * [Table Of Contents](#table-of-contents)
-   * [What is Bibata](#what-is-bibata)
+   * [What is Bibata](#what-is-bibata-translucent)
    * [Dependencies](#dependencies)
       * [Build dependencies](#build-dependencies)
    * [Installation](#installation)
       * [Build From Source Code](#build-from-source-code)
       * [Package](#package)
+      * [Windows](#windows)
    * [Quick Fixes](#quick-fixes)
       * [Inherits Problem](#inherits-problem)
    * [Work in Progress](#work-in-progress)
-   * [Gallery](#gallery)
    * [Bugs](#bugs)
    * [License & Terms](#license-and-terms)
    * [Getting help](#getting-help)
@@ -47,6 +47,7 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
       * [Bibata Adapta](#bibata-adapta)
       * [Bibata](#bibata)
    * [Contributors](#contributors)
+   * [Maintainers](#maintainers)
 <!--te-->
 
 **Who Am I?**
@@ -55,11 +56,11 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 
 
-## What is Bibata
+## What is Bibata Translucent
 
 |      Name      |     Description     |
 | :-----------:  | :------------------ |
-|     Bibata     | Bibata is an **Open Source** ,Compact and Material Designed Cursor set.This project was created to improve the ```Linux``` Experience and Feel of _openness_ in the ```OpenSoftwareWorld```.|
+|     Bibata Translucent     | Bibata translucent is a translucent flavor of the original ```bibata_cursor``` cursor set.|
 |   Bibata Ghost   | Dark translucent Theme  |
 |   Bibata Spirit   | Light translucent Theme  |
 |   Bibata Tinted | Yellowish-Orange translucent Theme |
@@ -146,6 +147,7 @@ edited to
 |                 |                                                                                                         | Ubuntu repo                          | ...                                                                                                         |
 |                 |                                                                                                         | Port to ```Windows```                | ...                                                                                                         |
 |                 |                                                                                                         | Migrate files to new repo              | 97%                                                                                                        |
+                 |                                                                                                         | Make all cursors actually translucent             | ...                                                                                                        |
 
 
 ## Bugs
@@ -186,8 +188,8 @@ Thanks goes to these wonderful people for their work on the original ```Bibata_C
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
 | [<img src="https://avatars3.githubusercontent.com/u/6747270?s=400&v=4" width="100px;"/><br /><sub><b>mleyen</b></sub>](https://github.com/mleyen)      | [<img src="https://avatars2.githubusercontent.com/u/14180792?s=400&v=4" width="100px;"/><br /><sub><b>eti0</b></sub>](https://github.com/eti0)       | [<img src="https://avatars0.githubusercontent.com/u/6218030?s=400&v=4" width="100px;"/><br /><sub><b>mmetak</b></sub>](https://github.com/mmetak) | [<img src="https://avatars0.githubusercontent.com/u/11244308?s=400&v=4" width="100px;"/><br /><sub><b>alex285</b></sub>](https://github.com/alex285) | [<img src="https://avatars0.githubusercontent.com/u/20587163?s=400&v=4" width="100px;"/><br /><sub><b>commonsourcecs</b></sub>](https://github.com/commonsourcecs) | [<img src="https://avatars0.githubusercontent.com/u/24286590?s=400&v=4" width="100px"/><br /><sub><b>KaizIqbal</b></sub>](https://github.com/KaizIqbal) |
 
-Maintainer
-----------
+Maintainers
+-----------
  <p align="center"></br>
 <img src="https://avatars0.githubusercontent.com/u/43558271?s=460&v=4" width="100px"/><br /><sub ><b><a href="https://www.github.com/Silicasandwhich">SilicaSandwhich</a></b></sub>
 </p>
