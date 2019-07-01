@@ -135,20 +135,19 @@ edit ```/usr/share/icons/default/index.theme``` and replace your cursor.
 edited to
 
      [Icon Theme]
-     Inherits=Bibata_Ice                      #replace with flavor of your choice
+     Inherits=Bibata_Ghost                      #replace with flavor of your choice
 ## Work in progress
 
-| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress                          | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
-|-----------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|                 |                                                                                                         | Create Bibata Translucent cursor set | 0%                                                                                                          |
-|                 |                                                                                                         | Add to AUR                           | ...                                                                                                         |
-|                 |                                                                                                         | Debian package                       | ...                                                                                                         |
-|                 |                                                                                                         | Fedora package                       | ...                                                                                                         |
-|                 |                                                                                                         | Ubuntu repo                          | ...                                                                                                         |
-|                 |                                                                                                         | Port to ```Windows```                | ...                                                                                                         |
-|                 |                                                                                                         | Migrate files to new repo              | 97%                                                                                                        |
-                 |                                                                                                         | Make all cursors actually translucent             | ...                                                                                                        |
-
+| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress                            | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
+|-----------------|---------------------------------------------------------------------------------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|                 |                                                                                                         | Create Bibata Translucent cursor set   | 0%                                                                                                          |
+|                 |                                                                                                         | Add to AUR                             | ...                                                                                                         |
+|                 |                                                                                                         | Debian package                         | ...                                                                                                         |
+|                 |                                                                                                         | Fedora package                         | ...                                                                                                         |
+|                 |                                                                                                         | Ubuntu repo                            | ...                                                                                                         |
+|                 |                                                                                                         | Port to ```Windows```                  | ...                                                                                                         |
+|                 |                                                                                                         | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them)                                                  |
+|                 |                                                                                                         | Fix shadows on animated cursors        | ...                                                                                                         |
 
 ## Bugs
 
