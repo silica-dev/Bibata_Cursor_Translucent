@@ -12,7 +12,7 @@
    viewBox="0 0 75 75"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="right_ptr.svg">
   <metadata
      id="metadata13">
@@ -65,15 +65,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview9"
      showgrid="true"
-     inkscape:zoom="2.0471601"
-     inkscape:cx="-63.812499"
-     inkscape:cy="62.692013"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:zoom="5.7902432"
+     inkscape:cx="70.834479"
+     inkscape:cy="60.340605"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g64"
      inkscape:pagecheckerboard="false">
@@ -137,7 +137,7 @@
        transform="matrix(-0.04761337,0,0,0.04761337,202.285,94.369002)"
        id="g36" />
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.25295436;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:#1a1a1a;fill-opacity:0.60000002;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.25295436;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        d="M 22.389615,4.1772869 V 25.235781 L 16.02766,19.136139 7.366882,18.938465 Z"
        id="path5"
        inkscape:connector-curvature="0"
