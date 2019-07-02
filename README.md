@@ -124,18 +124,8 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
   The Windows cursors are stored in the Windows directory of each flavor. 
 
 ## Quick Fixes
-##### *Inherits* Problem
-issue [#8](https://github.com/KaizIqbal/Bibata_Cursor/issues/8)
+Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
 
-edit ```/usr/share/icons/default/index.theme``` and replace your cursor.
-
-     [Icon Theme]
-     Inherits=Adwaita
-
-edited to
-
-     [Icon Theme]
-     Inherits=Bibata_Ghost                      #replace with flavor of your choice
 ## Work in progress
 
 | Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
