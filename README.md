@@ -130,7 +130,7 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 
 | Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
 |-----------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-|  |  | Create Bibata Translucent cursor set | 0% |
+|  |  | Create Bibata Translucent cursor set | 33% |
 |  |  | Add to AUR | ... |
 |  |  | Debian package | ... |
 |  |  | Fedora package | ... |
