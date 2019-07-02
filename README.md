@@ -2,7 +2,7 @@
   <p align="center"><img title="Bibata" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata.png"></p>
 </a>
 <h1 align="center">WARNING</h1>
-<p align="center">Bibata Spirit and Bibata Tinted are not fully complete. They are currently exact copies of Bibata Ice and Bibata Amber Do not use them.</p>
+<p align="center">Bibata Spirit and Bibata Tinted are not fully complete. They are currently exact copies of Bibata Ice and Bibata Amber. Do not use them.</p>
 
 [![HitCount](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent.svg)](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
