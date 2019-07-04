@@ -42,7 +42,7 @@ install() {
   # PREVIEW
 
   # Show destination directory
-  echo -e "\nBibata Cursor Theme will be installed in:\n"
+  echo -e "\nBibata Cursor Translucent Theme will be installed in:\n"
   show_dir "\t$DEST_DIR"
   if [ "$UID" -eq "$ROOT_UID" ]; then
     echo -e "\nIt will be available to all users."
@@ -72,7 +72,7 @@ install() {
 
 
   echo "Installation complete!"
-  echo "Do not forget you have to set Bibata Cursor."
+  echo "Do not forget you have to set Bibata Cursor Translucent."
 }
 
 remove() {
@@ -81,7 +81,7 @@ remove() {
 
   # Show installation directory
   if [[ -d $DEST_DIR/Bibata_Ghost || -d $DEST_DIR/Bibata_Spirit ]]; then
-    echo -e "\nBibata Cursor Theme installed in:\n"
+    echo -e "\nBibata Cursor Translucent Theme installed in:\n"
     show_dir "\t$DEST_DIR"
     if [ "$UID" -eq "$ROOT_UID" ]; then
       echo -e "\nIt will remove for all users."
@@ -92,7 +92,7 @@ remove() {
     continue
   
   else
-    show_error "\nBibata Cursor is not installed in:\n"
+    show_error "\nBibata Cursor Translucent is not installed in:\n"
     show_dir "\t$DEST_DIR\n"
     end
   fi
