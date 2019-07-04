@@ -1,8 +1,6 @@
 <a href="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent">
   <p align="center"><img title="Bibata" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata.png"></p>
 </a>
-<h1 align="center">WARNING</h1>
-<p align="center">Bibata Tinted is not fully complete. It is currently an exact copy of Bibata Amber. Do not use it.</p>
 
 [![HitCount](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent.svg)](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -73,6 +71,8 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 </br><sub>Bibata Ghost</sub></p>
 <p align="center"><img title="Bibata Spirit" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Spirit.png">
 </br><sub>Bibata Spirit</sub></p>
+<p align="center"><img title="Bibata Tinted" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Tinted.png">
+</br><sub>Bibata Tinted</sub></p>
 
 ## Dependencies
 
