@@ -12,7 +12,7 @@
    viewBox="0 0 75 75"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="bottom_right_corner.svg">
   <metadata
      id="metadata13">
@@ -64,15 +64,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview9"
      showgrid="true"
      inkscape:zoom="3.41879"
-     inkscape:cx="-34.590581"
-     inkscape:cy="44.79308"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:cx="19.375881"
+     inkscape:cy="33.093034"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="false">
@@ -96,7 +96,7 @@
      style="opacity:0.2;fill:none;stroke:#333333;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1341)" />
   <path
      sodipodi:nodetypes="cccc"
-     style="fill:#fdb713;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.5714798;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#fdb713;fill-opacity:0.60000002;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.5714798;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 52.936076,52.936467 V 16.364635 C 32.358059,17.572791 17.658058,38.769406 16.365029,52.936467 Z"
      id="path7-6"
      inkscape:connector-curvature="0" />
@@ -107,7 +107,7 @@
      d="M 61.93603,44.775495 V 61.93642 h -17.2372"
      style="fill:none;stroke:#ffffff;stroke-width:2.24998832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     style="fill:none;stroke:#ff6600;stroke-width:0.6749965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff6600;stroke-width:0.6749965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60000002"
      d="M 61.93603,44.775495 V 61.93642 h -17.2372"
      id="path1857"
      inkscape:connector-curvature="0"

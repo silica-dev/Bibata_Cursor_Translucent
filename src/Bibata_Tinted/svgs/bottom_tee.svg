@@ -12,7 +12,7 @@
    viewBox="0 0 75 75"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="bottom_tee.svg">
   <metadata
      id="metadata13">
@@ -51,15 +51,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview9"
      showgrid="true"
      inkscape:zoom="3.41879"
-     inkscape:cx="-24.481821"
-     inkscape:cy="26.287105"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:cx="85.644861"
+     inkscape:cy="41.497165"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="false">
@@ -80,7 +80,7 @@
      d="M 37.499999,57.749847 H 15.00017 M 37.499999,17.250155 v 40.499692 h 22.499829 m -22.499829,0 H 15.00017 M 37.499999,17.250155 v 40.499692 h 22.499829" />
   <path
      d="M 37.499999,57.749847 H 15.00017 M 37.499999,17.250155 v 40.499692 h 22.499829 m -22.499829,0 H 15.00017 M 37.499999,17.250155 v 40.499692 h 22.499829"
-     style="fill:none;stroke:#ff6600;stroke-width:2.24998307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff6600;stroke-width:2.24998307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60000002"
      id="path818"
      inkscape:connector-curvature="0" />
 </svg>

@@ -12,7 +12,7 @@
    viewBox="0 0 75 75"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="pencil.svg">
   <metadata
      id="metadata13">
@@ -65,15 +65,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview9"
      showgrid="true"
      inkscape:zoom="4.1667203"
-     inkscape:cx="-31.247897"
-     inkscape:cy="45.294771"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:cx="13.27153"
+     inkscape:cy="50.094709"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g64"
      inkscape:pagecheckerboard="false">
@@ -91,12 +91,12 @@
        inkscape:connector-curvature="0"
        transform="matrix(0.90731092,0,0,-0.90708713,-229.10291,475.00841)" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81439805;marker:none;enable-background:accumulate"
-       d="M 19.982292,5.7372455 A 0.90740166,0.90717783 0 0 0 19.443576,5.9923638 L 8.0171296,17.444338 a 0.90740166,0.90717783 0 0 0 -0.1984748,0.368504 l -0.9640179,2.89134 a 0.90740166,0.90717783 0 0 0 1.1341387,1.133859 l 2.8920534,-0.96378 a 0.90740166,0.90717783 0 0 0 0.368596,-0.198425 L 22.675871,9.2238616 a 0.90740166,0.90717783 0 0 0 0,-1.3039377 L 20.747835,5.9923638 A 0.90740166,0.90717783 0 0 0 19.982292,5.7372455 Z"
-       id="path4801-6-4-9"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99988651;marker:none;enable-background:accumulate"
+       d="M 67.240234 20.308594 A 3.0002433 3.0002433 0 0 0 66.876953 20.335938 A 3.0002433 3.0002433 0 0 0 65.095703 21.179688 L 27.314453 59.054688 A 3.0002433 3.0002433 0 0 0 26.658203 60.273438 L 23.470703 69.835938 A 3.0002433 3.0002433 0 0 0 27.220703 73.585938 L 36.783203 70.398438 A 3.0002433 3.0002433 0 0 0 38.001953 69.742188 L 75.78125 31.867188 A 3.0002433 3.0002433 0 0 0 75.78125 27.554688 L 69.408203 21.179688 A 3.0002433 3.0002433 0 0 0 67.240234 20.308594 z M 67.251953 23.335938 L 73.625 29.710938 L 35.845703 67.585938 L 26.283203 70.773438 L 29.470703 61.210938 L 67.251953 23.335938 z M 67.34375 27.648438 L 63.408203 31.585938 L 65.470703 33.648438 L 69.40625 29.710938 L 67.34375 27.648438 z "
+       transform="matrix(0.3024427,0,0,0.30236809,-0.24389557,-0.41185448)"
+       id="path4801-6-4-9" />
     <path
-       style="display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.90719903"
+       style="display:inline;fill:#ff6600;fill-opacity:0.60000002;stroke:none;stroke-width:0.90719903"
        d="M 20.095706,6.6443326 8.6692588,18.096306 7.7052409,20.987647 10.597294,20.023867 22.023742,8.5718928 Z m 0.02831,1.3039378 0.623777,0.6236224 -1.190846,1.1905518 -0.623776,-0.6236224 z"
        id="path4801-6-4"
        inkscape:connector-curvature="0"
