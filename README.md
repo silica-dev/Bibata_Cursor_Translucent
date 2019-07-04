@@ -71,6 +71,8 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 <p align="center"><img title="Bibata Ghost" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Ghost.png">
 </br><sub>Bibata Ghost</sub></p>
+<p align="center"><img title="Bibata Spirit" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Spirit.png">
+</br><sub>Bibata Spirit</sub></p>
 
 ## Dependencies
 
