@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,8 +96,8 @@
      id="namedview9"
      showgrid="true"
      inkscape:zoom="6.6786971"
-     inkscape:cx="44.079921"
-     inkscape:cy="37.856544"
+     inkscape:cx="19.149909"
+     inkscape:cy="37.706814"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -151,7 +151,7 @@
      rx="19.448397"
      ry="19.448399" />
   <path
-     style="opacity:1;fill:#37c837;fill-opacity:0.56470588;fill-rule:nonzero;stroke:none;stroke-width:1.00537646;stroke-opacity:0.6;paint-order:stroke fill markers"
+     style="opacity:1;fill:#37c837;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:1.00537646;stroke-opacity:0.6;paint-order:stroke fill markers"
      d="M 47.035156 54.681641 C 46.301972 54.681641 45.710938 55.272675 45.710938 56.005859 L 45.710938 62.634766 L 37.929688 62.634766 C 37.116353 62.634766 36.460938 63.290181 36.460938 64.103516 L 36.460938 70.988281 C 36.460937 71.801616 37.116353 72.455078 37.929688 72.455078 L 45.710938 72.455078 L 45.710938 79.085938 C 45.710937 79.819122 46.301972 80.408203 47.035156 80.408203 L 54.314453 80.408203 C 55.047637 80.408203 55.636719 79.819122 55.636719 79.085938 L 55.636719 72.455078 L 63.53125 72.455078 C 64.344585 72.455078 65 71.801616 65 70.988281 L 65 64.103516 C 65 63.290181 64.344585 62.634766 63.53125 62.634766 L 55.636719 62.634766 L 55.636719 56.005859 C 55.636719 55.272675 55.047637 54.681641 54.314453 54.681641 L 47.035156 54.681641 z "
      id="rect851"
      transform="scale(0.75)" />
