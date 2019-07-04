@@ -146,7 +146,6 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 |  |  | Port to ```Windows``` | ... |
 |  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
 |  |  | Fix shadows on animated cursors | ... |
-|  |  | Fix inconsistencies on shadows in general | ... |
 
 ## Bugs
 
