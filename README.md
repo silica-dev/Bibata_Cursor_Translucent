@@ -147,7 +147,7 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 | Add to AUR | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |  Fix shadows on animated cursors | ... |
 |  |  | Debian package | ... |
 |  |  | Fedora package | ... |
-|  |  | Ubuntu repo | ... |
+|  |  | Slackware package | ... |
 |  |  | Port to ```Windows``` | ... |
 |  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
 
