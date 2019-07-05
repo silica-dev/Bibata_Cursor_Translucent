@@ -16,6 +16,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/Silicasandwhich.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Silicasandwhich?tab=followers)
+[![Aur version](https://img.shields.io/aur/version/bibata-cursor-translucent.svg)](https://aur.archlinux.org/packages/bibata-cursor-translucent)
 
 <br />
 
@@ -34,7 +35,7 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
       * [Build dependencies](#build-dependencies)
    * [Installation](#installation)
       * [Build From Source Code](#build-from-source-code)
-      * [Package](#package)
+      * [Packages](#packages)
       * [Windows](#windows)
    * [Quick Fixes](#quick-fixes)
    * [Work in Progress](#work-in-progress)
@@ -84,7 +85,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ## Installation
 
-### Build From Source Code (linux)
+### Build From Source Code
 
 1. Make sure you have installed all [Dependencies](#dependencies).
 
@@ -123,9 +124,13 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
      $rm -r ~/.icons/Bibata_*
      #Note : Your replace * with flavor Name to remove individual
      ```
-  ### Packages (linux)
-
-  I am working on creating packages for all major distributions, but for now you will have to build from source.
+  ### Packages
+  
+  #### AUR
+  The AUR package ```biata-cursor-translucent``` contains the latest release of bibata translucent. Use your favorite AUR package manager to get it.
+  
+  #### Other
+  I am working on creating packages for all other major distributions, but for now you will have to build from source.
 
   ### Windows
 
@@ -139,13 +144,12 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 | Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
 |-----------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Create Bibata Translucent cursor set | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Fix inconsistencies on shadows in general | ... |
-|  |  | Add to AUR | ... |
+| Add to AUR | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |  Fix shadows on animated cursors | ... |
 |  |  | Debian package | ... |
 |  |  | Fedora package | ... |
 |  |  | Ubuntu repo | ... |
 |  |  | Port to ```Windows``` | ... |
 |  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
-|  |  | Fix shadows on animated cursors | ... |
 
 ## Bugs
 
