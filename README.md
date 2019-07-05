@@ -30,7 +30,7 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
    * [How to get Project Message and Updates](#how-to-get-project-message-and-updates)
    * [Table Of Contents](#table-of-contents)
    * [What is Bibata Translucent?](#what-is-bibata-translucent)
-   * [Gallery](#Gallery)
+   * [Gallery](#gallery)
    * [Dependencies](#dependencies)
       * [Build dependencies](#build-dependencies)
    * [Installation](#installation)
@@ -134,7 +134,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
   ### Windows
 
-  The Windows cursors are stored in the Windows directory of each flavor. 
+  The Windows cursors are stored on the Windows branch. You can find them in the directories of each flavor
 
 ## Quick Fixes
 Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
