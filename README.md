@@ -8,6 +8,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/commit-activity)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-red.svg)
 [![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/CODE_OF_CONDUCT.md)
+[![Aur version](https://img.shields.io/aur/version/bibata-cursor-translucent.svg)](https://aur.archlinux.org/packages/bibata-cursor-translucent)
+
 
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
@@ -16,8 +18,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/Silicasandwhich.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Silicasandwhich?tab=followers)
-[![Aur version](https://img.shields.io/aur/version/bibata-cursor-translucent.svg)](https://aur.archlinux.org/packages/bibata-cursor-translucent)
-
 <br />
 
 ## How to get Project Message and Updates
