@@ -7,6 +7,6 @@ for CUR in svgs/*.svg; do
 
     echo -ne "\033[0KGenerating png of  $BASENAME.svg\\r"
 
-    inkscape -w 24 -h 24 --without-gui -f svgs/"$BASENAME".svg -e "pngs/$BASENAME.png" > /dev/null
+    inkscape --without-gui -f svgs/"$BASENAME".svg -e "pngs/$BASENAME.png" > /dev/null
 
 done
