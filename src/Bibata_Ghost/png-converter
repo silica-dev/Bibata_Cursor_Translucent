@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for CUR in svgs/*.svg; do
+    BASENAME=$CUR
+    BASENAME=${BASENAME##*/}
+    BASENAME=${BASENAME%.*}
+
+    echo -ne "\033[0KGenerating png of  $BASENAME.svg\\r"
+
+    inkscape --without-gui -f svgs/"$BASENAME".svg -e "pngs/$BASENAME.png" > /dev/null
+
+done
