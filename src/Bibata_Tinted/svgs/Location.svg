@@ -33,7 +33,7 @@
    id="namedview14425"
    showgrid="false"
    inkscape:zoom="6.881534"
-   inkscape:cx="33"
+   inkscape:cx="9.386079"
    inkscape:cy="37.165318"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -154,4 +154,10 @@
    transform="matrix(0.0864172,0,0,0.0864172,11.2587,44.7137)"
    style="fill:none;fill-opacity:1">
         
-    </g></svg>
+    </g><ellipse
+   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.20738554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+   id="path814"
+   cx="33.5681"
+   cy="65.756966"
+   rx="25.931194"
+   ry="25.931198" /></svg>
