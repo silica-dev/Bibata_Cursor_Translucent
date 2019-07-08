@@ -135,6 +135,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
 
 ## Work in progress
+### I DO NOT UPDATE THIS BOARD ON THE WINDOWS BRANCH
 
 | Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
 |-----------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -143,7 +144,7 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 |  |  | Debian package | ... |
 |  |  | Fedora package | ... |
 |  |  | Ubuntu repo | ... |
-|  |  | Port to ```Windows``` | ... |
+|  |  |  |  |
 |  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
 |  |  | Fix shadows on animated cursors | ... |
 
