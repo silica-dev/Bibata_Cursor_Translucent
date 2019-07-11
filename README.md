@@ -18,6 +18,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/Silicasandwhich.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Silicasandwhich?tab=followers)
+
 <br />
 
 ## How to get Project Message and Updates
@@ -141,14 +142,17 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 
 ## Work in progress
 
-| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
-|-----------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Create Bibata Translucent cursor set | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Fix inconsistencies on shadows in general | ... |
-| Add to AUR | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |  Fix shadows on animated cursors | ... |
-| Port to ```Windows``` | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Debian package | ... |
-|  |  | Fedora package | ... |
-|  |  | Slackware package | ... |
-|  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
+| Tasks | Progress |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Create Bibata Translucent cursor set | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Add to AUR | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Port to ```Windows``` | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Debian Package |  ... |
+| Fedora Package | ... |
+| Slackware Package | ... |
+| Fix cursors that aren't translucent | 94% |
+| Fix shadows on animated cursors | 50% |
+
 
 ## Bugs
 
