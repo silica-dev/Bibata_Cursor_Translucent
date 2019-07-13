@@ -88,9 +88,11 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ### Build From Source Code
 
-1. Make sure you have installed all [Dependencies](#dependencies).
+1. Get the lastest stable source code from the [releases tab](https://github.com/silicasandwhich/bibata_cursor_translucent/releases) on the github page.
 
-2. **Build & Install**:
+2. Make sure you have installed all [Dependencies](#dependencies).
+
+3. **Build & Install**:
     ```bash
     $git clone https://github.com/Silicasandwhich/Bibata_Cursor_Transulent.git
     $cd Bibata_Cursor_translucent/
@@ -106,7 +108,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
     ```
     $./Installer_Bibata.sh
     ```
-3. **Uninstall**:
+4. **Uninstall**:
 
      Using ```Script``` :
 
