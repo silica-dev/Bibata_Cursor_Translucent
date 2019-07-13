@@ -69,8 +69,8 @@
      id="namedview9"
      showgrid="true"
      inkscape:zoom="9.6697984"
-     inkscape:cx="59.164172"
-     inkscape:cy="38.590199"
+     inkscape:cx="70.901749"
+     inkscape:cy="33.522875"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -101,15 +101,13 @@
      id="path7-6"
      inkscape:connector-curvature="0" />
   <path
-     sodipodi:nodetypes="ccc"
      inkscape:connector-curvature="0"
-     id="path1475"
-     d="M 61.93603,44.775495 V 61.93642 h -17.2372"
-     style="fill:none;stroke:#000000;stroke-width:2.24998832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70279086;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:normal"
+     d="m 62.077148,43.586428 c 0.704677,0 1.302246,0.59757 1.302246,1.302246 v 17.176758 c 0,0.704677 -0.597569,1.302246 -1.302246,1.302246 h -0.01758 -0.0074 -17.238281 c -0.706076,0 -1.303711,-0.597635 -1.303711,-1.303711 v -0.01172 c 0,-0.706077 0.603036,-1.302247 1.303711,-1.302247 H 60.75 V 44.888674 c 0,-0.704676 0.597569,-1.302246 1.302246,-1.302246 z m 0,0.982911 h -0.0249 c -0.176835,0 -0.319335,0.1425 -0.319335,0.319335 V 61.732912 H 44.813967 c -0.177542,0 -0.320801,0.141794 -0.320801,0.319337 v 0.01172 c -2e-6,0.177539 0.143256,0.320797 0.320799,0.320797 h 17.238281 0.0074 0.01758 c 0.176835,0 0.319336,-0.142501 0.319336,-0.319336 V 44.888674 c 0,-0.176835 -0.142501,-0.319335 -0.319336,-0.319335 z"
+     id="path17536" />
   <path
-     style="fill:none;stroke:#ffffff;stroke-width:0.6749965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60000002"
-     d="M 61.93603,44.775495 V 61.93642 h -17.2372"
-     id="path1857"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
+     style="opacity:1;fill:#ffffff;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:0.70279086;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:normal"
+     d="m 62.077148,44.569339 c 0.176835,0 0.319336,0.1425 0.319336,0.319335 v 17.176758 c 0,0.176835 -0.142501,0.319336 -0.319336,0.319336 h -0.01758 -0.0074 -17.238281 c -0.177542,0 -0.320801,-0.143258 -0.320801,-0.320801 v -0.01172 c 0,-0.177543 0.143259,-0.319337 0.320801,-0.319337 H 61.73291 V 44.888674 c 0,-0.176835 0.142501,-0.319335 0.319336,-0.319335 z"
+     id="rect17527" />
 </svg>
