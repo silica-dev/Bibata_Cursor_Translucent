@@ -165,7 +165,7 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 | Debian Package |  ... |
 | Fedora Package | ... |
 | Slackware Package | ... |
-| Fix shadows on animated cursors | 83% |
+| Fix shadows on animated cursors | 100% |
 
 
 ## Bugs
