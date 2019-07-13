@@ -68,9 +68,9 @@
      inkscape:window-height="1017"
      id="namedview9"
      showgrid="true"
-     inkscape:zoom="3.41879"
-     inkscape:cx="-66.473207"
-     inkscape:cy="44.79308"
+     inkscape:zoom="13.67516"
+     inkscape:cx="81.166748"
+     inkscape:cy="32.142405"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -101,15 +101,13 @@
      id="path7-6"
      inkscape:connector-curvature="0" />
   <path
-     sodipodi:nodetypes="ccc"
-     inkscape:connector-curvature="0"
-     id="path1475"
-     d="M 61.93603,44.775495 V 61.93642 h -17.2372"
-     style="fill:none;stroke:#ffffff;stroke-width:2.24998832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01970375;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:normal"
+     d="M 82.472656 58.138672 C 81.674933 58.138672 81 58.813604 81 59.611328 L 81 81 L 59.490234 81.060547 C 58.690101 81.062891 58.019121 81.744894 58.021484 82.541016 L 58.021484 82.564453 A 1.044978 1.044978 0 0 0 58.021484 82.568359 C 58.023855 83.36845 58.705874 84.039445 59.501953 84.037109 L 82.505859 83.970703 C 82.716924 83.970065 82.90946 83.923248 83.078125 83.851562 C 83.267708 83.771175 83.418854 83.662256 83.541016 83.541016 C 83.803208 83.28081 83.976562 82.90159 83.976562 82.496094 L 83.976562 59.611328 C 83.976563 58.813604 83.301629 58.138672 82.503906 58.138672 L 82.472656 58.138672 z M 82.472656 59.183594 L 82.503906 59.183594 C 82.740877 59.183594 82.931641 59.374357 82.931641 59.611328 L 82.931641 82.496094 C 82.931641 82.61516 82.882674 82.721427 82.804688 82.798828 C 82.766261 82.836961 82.720622 82.869238 82.669922 82.890625 C 82.618509 82.912478 82.561508 82.925595 82.501953 82.925781 L 59.498047 82.992188 C 59.25983 82.992886 59.067112 82.80267 59.066406 82.564453 L 59.066406 82.537109 C 59.0657 82.298892 59.255922 82.106166 59.494141 82.105469 L 82.044922 82.041016 L 82.044922 59.611328 C 82.044922 59.374357 82.235684 59.183594 82.472656 59.183594 z "
+     transform="scale(0.75)"
+     id="path15084" />
   <path
-     style="fill:none;stroke:#1a1a1a;stroke-width:0.6749965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60000002"
-     d="M 61.93603,44.775495 V 61.93642 h -17.2372"
-     id="path1857"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
+     style="opacity:1;fill:#1a1a1a;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:0.76477778;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:normal"
+     d="m 61.87793,44.387696 c 0.177728,0 0.320801,0.143072 0.320801,0.3208 V 61.87207 c 0,0.0893 -0.03672,0.169 -0.09521,0.227051 -0.02882,0.0286 -0.06305,0.05281 -0.101075,0.06885 -0.03856,0.01639 -0.08131,0.02623 -0.125976,0.02637 l -17.25293,0.04981 c -0.178663,5.24e-4 -0.323201,-0.142138 -0.32373,-0.320801 v -0.0205 c -5.3e-4,-0.178663 0.142137,-0.323207 0.320801,-0.32373 l 16.91308,-0.04836 V 44.708496 c 0,-0.177728 0.143073,-0.3208 0.320802,-0.3208 z"
+     id="rect15079" />
 </svg>
