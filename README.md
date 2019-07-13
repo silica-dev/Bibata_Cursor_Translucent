@@ -137,7 +137,19 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
   ### Windows
 
-  The Windows cursors are stored on the Windows branch. You can find them in the directories of each flavor
+  1. Get the lastest stable Windows release from the [releases tab](https://github.com/silicasandwhich/bibata_cursor_translucent/releases) on the github page.
+
+  2. Open the settings app
+
+  3. Go to Devices -> Mouse -> Additional Mouse Options
+
+  4. Go to the pointers tab
+
+  5. Replace each cursor in the currently applied cursor set with the corresponding cursor in the Windows folder of your desired flavor
+
+  6. Click "save as" and type in the desired name
+
+  7. Click "apply" and "ok"
 
 ## Quick Fixes
 Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
