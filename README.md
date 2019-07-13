@@ -152,7 +152,7 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 | Debian Package |  ... |
 | Fedora Package | ... |
 | Slackware Package | ... |
-| Fix cursors that aren't translucent | 94% |
+| Fix cursors that aren't translucent | 92% |
 | Fix shadows on animated cursors | 67% |
 
 
