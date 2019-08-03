@@ -95,7 +95,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 3. **Build & Install**:
     ```bash
     $git clone https://github.com/Silicasandwhich/Bibata_Cursor_Transulent.git
-    $cd Bibata_Cursor_translucent/
+    $cd Bibata_Cursor_Translucent/
     $chmod +x build.sh
     $./build.sh
     $chmod +x ./Installer_Bibata.sh
