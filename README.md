@@ -130,7 +130,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
   ### Packages
   
   #### AUR
-  The AUR package ```biata-cursor-translucent``` contains the latest release of bibata translucent. Use your favorite AUR package manager to get it.
+  The AUR package ```bibata-cursor-translucent``` contains the latest release of bibata translucent. Use your favorite AUR package manager to get it.
   
   #### Other
   I am working on creating packages for all other major distributions, but for now you will have to build from source.
