@@ -42,12 +42,12 @@ install() {
   # PREVIEW
 
   # Show destination directory
-  echo -e "\nBibata Cursor Translucent Theme will be installed in:\n"
+  echo -e "\nBibata Cursor Translucent will be installed in:\n"
   show_dir "\t$DEST_DIR"
   if [ "$UID" -eq "$ROOT_UID" ]; then
     echo -e "\nIt will be available to all users."
   else
-    echo -e "\nTo make them available to all users, run this script as root."
+    echo -e "\nTo make it available to all users, run this script as root."
   fi
 
   continue
@@ -72,7 +72,7 @@ install() {
 
 
   echo "Installation complete!"
-  echo "Do not forget you have to set Bibata Cursor Translucent."
+  echo "Do not forget to set Bibata Cursor Translucent as your theme!"
 }
 
 remove() {
@@ -84,9 +84,9 @@ remove() {
     echo -e "\nBibata Cursor Translucent Theme installed in:\n"
     show_dir "\t$DEST_DIR"
     if [ "$UID" -eq "$ROOT_UID" ]; then
-      echo -e "\nIt will remove for all users."
+      echo -e "\nIt will be removed for all users."
     else
-      echo -e "\nIt will remove only for current user."
+      echo -e "\nIt will be removed only for current user."
     fi
 
     continue
@@ -106,8 +106,8 @@ remove() {
   rm -rf $DEST_DIR/Bibata_Spirit
   rm -rf $DEST_DIR/Bibata_Tinted
 
-  echo "Removing complete!"
-  echo "I hope to see you soon."
+  echo "Removal complete!"
+  echo "If you had any problems with the theme, feel free to let me know at the github page!"
 }
 
 main() {
