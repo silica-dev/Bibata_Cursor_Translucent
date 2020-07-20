@@ -78,7 +78,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ## Dependencies
 
-### Build dependencies
+### Build dependencies (ONLY for building from source)
 
 * [Xcursorgen](https://github.com/freedesktop/xcursorgen)
 * [Inkscape](https://gitlab.com/inkscape/inkscape)
