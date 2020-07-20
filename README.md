@@ -87,9 +87,6 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 ## Installation
 
 ### Linux
-    ```bash
-    sudo chmod +x Installer_Bibata.sh
-    ```
     #Install for all users
     ```bash
     $sudo ./Installer_Bibata.sh
