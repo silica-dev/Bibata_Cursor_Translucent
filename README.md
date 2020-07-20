@@ -8,6 +8,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/commit-activity)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-red.svg)
 [![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/CODE_OF_CONDUCT.md)
+[![Aur version](https://img.shields.io/aur/version/bibata-cursor-translucent.svg)](https://aur.archlinux.org/packages/bibata-cursor-translucent)
+
 
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
@@ -29,12 +31,12 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
    * [How to get Project Message and Updates](#how-to-get-project-message-and-updates)
    * [Table Of Contents](#table-of-contents)
    * [What is Bibata Translucent?](#what-is-bibata-translucent)
-   * [Gallery](#Gallery)
+   * [Gallery](#gallery)
    * [Dependencies](#dependencies)
       * [Build dependencies](#build-dependencies)
    * [Installation](#installation)
       * [Build From Source Code](#build-from-source-code)
-      * [Package](#package)
+      * [Packages](#packages)
       * [Windows](#windows)
    * [Quick Fixes](#quick-fixes)
    * [Work in Progress](#work-in-progress)
@@ -84,69 +86,74 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ## Installation
 
-### Build From Source Code (linux)
-
-1. Make sure you have installed all [Dependencies](#dependencies).
-
-2. **Build & Install**:
-    ```bash
-    $git clone https://github.com/Silicasandwhich/Bibata_Cursor_Transulent.git
-    $cd Bibata_Cursor_translucent/
-    $chmod +x build.sh
-    $./build.sh
-    $chmod +x ./Installer_Bibata.sh
-    ```
-    Install (As ROOT User)
+### Linux
+    #Install for all users
     ```bash
     $sudo ./Installer_Bibata.sh
     ```
-    Install (As Local User)
+    #Install for local user only
     ```
     $./Installer_Bibata.sh
     ```
-3. **Uninstall**:
+4. **Uninstall**:
 
      Using ```Script``` :
 
       ```bash
-      #From ROOT
+      #For all users
       $sudo ./Installer_Bibata.sh
-      #From Local User
+      #For local user only
       $./Installer_Bibata.sh
       ```
 
      Without ```Script``` :
      ```bash
-     #From ROOT
+     #for all users
      $sudo rm -r /usr/share/icons/Bibata_*
-     #from Local User
+     #for local user only
      $rm -r ~/.icons/Bibata_*
-     #Note : Your replace * with flavor Name to remove individual
+     #Note : You can replace * with a flavor Name to remove individual flavors
      ```
-  ### Packages (linux)
-
-  I am working on creating packages for all major distributions, but for now you will have to build from source.
+  ### Packages
+  
+  #### AUR
+  The AUR package ```bibata-cursor-translucent``` contains the latest release of bibata translucent. Use your favorite AUR package manager to get it.
+  
+  #### Other
+  I am working on creating packages for all other major distributions, but for now you will have to build from source.
 
   ### Windows
 
-  The Windows cursors are stored on the Windows branch. You can find them in the directories of each flavor
+  1. Get the lastest stable Windows release from the [releases tab](https://github.com/silicasandwhich/bibata_cursor_translucent/releases) on the github page.
+
+  2. Open the settings app
+
+  3. Go to Devices -> Mouse -> Additional Mouse Options
+
+  4. Go to the pointers tab
+
+  5. Replace each cursor in the currently applied cursor set with the corresponding cursor in the Windows folder of your desired flavor
+
+  6. Click "save as" and type in the desired name
+
+  7. Click "apply" and "ok"
 
 ## Quick Fixes
-Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
+Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. Otherwise, you can make an issue on the github page.
 
 ## Work in progress
-### I DO NOT UPDATE THIS BOARD ON THE WINDOWS BRANCH
 
-| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | In Progress | ![]( https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true) |
-|-----------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Create Bibata Translucent cursor set | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Fix inconsistencies on shadows in general | ... |
-|  |  | Add to AUR | ... |
-|  |  | Debian package | ... |
-|  |  | Fedora package | ... |
-|  |  | Ubuntu repo | ... |
-|  |  |  |  |
-|  |  | Make more cursors actually transparent | (most are but I can't find ways to deal with some of them) |
-|  |  | Fix shadows on animated cursors | ... |
+| Tasks | Progress |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Create Bibata Translucent cursor set | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Add to AUR | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Port to ```Windows``` | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Fix cursors that aren't translucent | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Fix shadows on animated cursors | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |
+| Debian Package |  ... |
+| Fedora Package | ... |
+| Slackware Package | ... |
+
 
 ## Bugs
 
@@ -159,22 +166,22 @@ Bugs should be reported [here](https://github.com/Silicasandwhich/Bibata_Cursor_
 
 ## Getting help
 
-You can create a issue, I will help you.
+IF you create a issue, I will help you.
 
 ## Contributions and Suggestions
 
-Any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a ```Fork``` & ```Pull requests```.
+Any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a ```Fork``` or ```Pull request```.
 ###
 
 ## Looking For Another Bibata
 
 ###### Bibata Extra
 
-Bibata Extra **</>** and maintained by @KaizIqbal you find it at [GitHub](https://github.com/KaizIqbal/Bibata_Extra_Cursor)
+Bibata Extra **</>** is a collection of more colorful cursors based on the original cursor set. It is maintained by @KaizIqbal. you can find it on [GitHub](https://github.com/KaizIqbal/Bibata_Extra_Cursor)
 
 ###### Bibata Adapta
 
-Bibata Adapta **</>** and maintained by @cscs you find it at [Gitlab](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors)
+Bibata Adapta **</>** is a collection of cursors stylized in the color scheme of manjaro. it is maintained by @cscs. you can find it on [Gitlab](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors)
 
 ###### Bibata
 
