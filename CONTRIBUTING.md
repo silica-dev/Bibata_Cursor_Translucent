@@ -13,10 +13,10 @@ I use github to host code, to track issues and feature requests, as well as acce
 ## I Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo and create your branch from `dev`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed Look, update the documentation.
-4. Issue that pull request!
+4. Issue that pull request! I will build any changes to the cursors themselves and update the master branch accordingly
 
 ## Any contributions you make will be under the GPL - 3.0 Software License
 In short, when you submit code changes, your submissions are understood to be under the same [GPL - 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html) that covers the project. Feel free to contact the maintainers if that's a concern.
