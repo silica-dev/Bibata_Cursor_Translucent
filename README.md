@@ -32,8 +32,6 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
    * [Table Of Contents](#table-of-contents)
    * [What is Bibata Translucent?](#what-is-bibata-translucent)
    * [Gallery](#gallery)
-   * [Dependencies](#dependencies)
-      * [Build dependencies](#build-dependencies)
    * [Installation](#installation)
       * [Build From Source Code](#build-from-source-code)
       * [Packages](#packages)
@@ -75,14 +73,6 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 </br><sub>Bibata Spirit</sub></p>
 <p align="center"><img title="Bibata Tinted" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/dev/image/Bibata_Tinted.png">
 </br><sub>Bibata Tinted</sub></p>
-
-## Dependencies
-
-### Build dependencies
-
-* [Xcursorgen](https://github.com/freedesktop/xcursorgen)
-* [Inkscape](https://gitlab.com/inkscape/inkscape)
-* [gnome-themes-standard](https://launchpad.net/ubuntu/+source/gnome-themes-standard)
 
 ## Installation
 
