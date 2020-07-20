@@ -73,7 +73,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 </br><sub>Bibata Ghost</sub></p>
 <p align="center"><img title="Bibata Spirit" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Spirit.png">
 </br><sub>Bibata Spirit</sub></p>
-<p align="center"><img title="Bibata Tinted" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Tinted.png">
+<p align="center"><img title="Bibata Tinted" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/dev/image/Bibata_Tinted.png">
 </br><sub>Bibata Tinted</sub></p>
 
 ## Dependencies
