@@ -86,25 +86,15 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ## Installation
 
-### Build From Source Code
-
-1. Get the lastest stable source code from the [releases tab](https://github.com/silicasandwhich/bibata_cursor_translucent/releases) on the github page.
-
-2. Make sure you have installed all [Dependencies](#dependencies).
-
-3. **Build & Install**:
+### Linux
     ```bash
-    $git clone https://github.com/Silicasandwhich/Bibata_Cursor_Transulent.git
-    $cd Bibata_Cursor_Translucent/
-    $chmod +x build.sh
-    $./build.sh
-    $chmod +x ./Installer_Bibata.sh
+    sudo chmod +x Installer_Bibata.sh
     ```
-    Install (As ROOT User)
+    #Install for all users
     ```bash
     $sudo ./Installer_Bibata.sh
     ```
-    Install (As Local User)
+    #Install for local user only
     ```
     $./Installer_Bibata.sh
     ```
@@ -113,19 +103,19 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
      Using ```Script``` :
 
       ```bash
-      #From ROOT
+      #For all users
       $sudo ./Installer_Bibata.sh
-      #From Local User
+      #For local user only
       $./Installer_Bibata.sh
       ```
 
      Without ```Script``` :
      ```bash
-     #From ROOT
+     #for all users
      $sudo rm -r /usr/share/icons/Bibata_*
-     #from Local User
+     #for local user only
      $rm -r ~/.icons/Bibata_*
-     #Note : Your replace * with flavor Name to remove individual
+     #Note : You can replace * with a flavor Name to remove individual flavors
      ```
   ### Packages
   
@@ -152,7 +142,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
   7. Click "apply" and "ok"
 
 ## Quick Fixes
-Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. 
+Most problems can be fixed by following instructions in the original ```Bibata_Cursor``` readme. Otherwise, you can make an issue on the github page.
 
 ## Work in progress
 
@@ -179,22 +169,22 @@ Bugs should be reported [here](https://github.com/Silicasandwhich/Bibata_Cursor_
 
 ## Getting help
 
-You can create a issue, I will help you.
+IF you create a issue, I will help you.
 
 ## Contributions and Suggestions
 
-Any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a ```Fork``` & ```Pull requests```.
+Any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a ```Fork``` or ```Pull request```.
 ###
 
 ## Looking For Another Bibata
 
 ###### Bibata Extra
 
-Bibata Extra **</>** and maintained by @KaizIqbal you find it at [GitHub](https://github.com/KaizIqbal/Bibata_Extra_Cursor)
+Bibata Extra **</>** is a collection of more colorful cursors based on the original cursor set. It is maintained by @KaizIqbal. you can find it on [GitHub](https://github.com/KaizIqbal/Bibata_Extra_Cursor)
 
 ###### Bibata Adapta
 
-Bibata Adapta **</>** and maintained by @cscs you find it at [Gitlab](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors)
+Bibata Adapta **</>** is a collection of cursors stylized in the color scheme of manjaro. it is maintained by @cscs. you can find it on [Gitlab](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors)
 
 ###### Bibata
 
