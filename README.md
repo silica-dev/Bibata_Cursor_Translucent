@@ -33,6 +33,7 @@ I'll work on a way to get messages out to everybody, but for now you're just goi
    * [What is Bibata Translucent?](#what-is-bibata-translucent)
    * [Gallery](#gallery)
    * [Installation](#installation)
+      * [Quick Install](#quick-install)
       * [Build From Source Code](#build-from-source-code)
       * [Packages](#packages)
       * [Windows](#windows)
@@ -75,6 +76,13 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 </br><sub>Bibata Tinted</sub></p>
 
 ## Installation
+
+### Quick Install
+<p align="center">
+  <a href="https://www.pling.com/p/1437885/" >
+    <img title="Bibata Translucent Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
 
 ### Linux
     #Install for all users
