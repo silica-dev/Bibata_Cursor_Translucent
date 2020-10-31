@@ -17,6 +17,7 @@ d9ce0ab605698f320427677b458ad60b help
 e29285e634086352946a0e7090d73106 pointer
 fcf21c00b30f7e3f83fe0dfd12e71cff dnd-move
 alias copy
+arrow default
 all-scroll fleur
 bottom_left_corner size_bdiag
 bottom_right_corner size_fdiag
@@ -36,7 +37,10 @@ dnd-none dnd-move
 dnd-no-drop not-allowed
 draft pencil
 e-resize size_hor
+ew-resize side_hor
 forbidden no-drop
+grab openhand
+grabbing dnd-move
 h_double_arrow size_hor
 half-busy progress
 hand1 pointer
@@ -49,8 +53,14 @@ left_ptr_watch progress
 left_side left-arrow
 link alias
 move dnd-move
-n-resize size-ver
-no-drop not-allowed
+n-resize size_ver
+ne-resize size_bdiag
+nsew-resize size_bdiag
+no-drop no-drop 
+not-allowed not-allowed
+ns-reize size_ver
+nw-resize size_fdiag
+nwse-resize size_fdiag
 plus cell
 pointing_hand pointer
 question_arrow help
@@ -63,6 +73,7 @@ sb_v_double_arrow size_ver
 size_all fleur
 split_h col-resize
 split_v row-resize
+sw-resize size_bdiag
 top_left_corner size_fdiag
 top_right_corner size_bdiag
 top_side up-arrow
