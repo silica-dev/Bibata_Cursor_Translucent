@@ -81,7 +81,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 ### Build dependencies (ONLY for building from source)
 
 * [Xcursorgen](https://github.com/freedesktop/xcursorgen)
-* [Inkscape](https://gitlab.com/inkscape/inkscape)
+* [Inkscape >= 1.0](https://gitlab.com/inkscape/inkscape)
 * [gnome-themes-standard](https://launchpad.net/ubuntu/+source/gnome-themes-standard)
 
 ## Installation
