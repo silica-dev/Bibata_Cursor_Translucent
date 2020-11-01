@@ -106,3 +106,4 @@ x-cursor default
 wayland-cursor default
 zoom-in default
 zoom-out default
+se-resize size-bdiag
