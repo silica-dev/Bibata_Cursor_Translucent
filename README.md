@@ -2,22 +2,22 @@
   <p align="center"><img title="Bibata" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata.png"></p>
 </a>
 
-[![HitCount](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent.svg)](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent)
+[![HitCount](http://hits.dwyl.io/Silicasandwhich/Bibata_Cursor_Translucent.svg)](http://hits.dwyl.io/silica-dev/Bibata_Cursor_Translucent)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub contributors](https://img.shields.io/github/contributors/Silicasandwhich/Bibata_Cursor_Translucent.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/contributors/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Translucent/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Silicasandwhich/Bibata_Cursor_Translucent.svg)](https://GitHub.com/silica-dev/Bibata_Cursor_Translucent/graphs/contributors/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/silica-dev/Bibata_Cursor_Translucent/graphs/commit-activity)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-red.svg)
-[![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/CODE_OF_CONDUCT.md)
+[![Code Of Conduct](https://img.shields.io/badge/COC-yes-pink.svg)](https://github.com/silica-dev/Bibata_Cursor_Translucent/blob/master/CODE_OF_CONDUCT.md)
 [![Aur version](https://img.shields.io/aur/version/bibata-cursor-translucent.svg)](https://aur.archlinux.org/packages/bibata-cursor-translucent)
 
 
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
 
-[![GitHub forks](https://img.shields.io/github/forks/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Silicasandwhich/Bibata_Cursor_Transulent/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/watchers/)
-[![GitHub stars](https://img.shields.io/github/stars/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Silicasandwhich/Bibata_Cursor_Transulent/stargazers/)
-[![GitHub followers](https://img.shields.io/github/followers/Silicasandwhich.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Silicasandwhich?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/silica-dev/Bibata_Cursor_Transulent/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/silica-dev/Bibata_Cursor_Transulent/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/Silicasandwhich/Bibata_Cursor_Transulent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/silica-dev/Bibata_Cursor_Transulent/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/Silicasandwhich.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silica-dev?tab=followers)
 
 <br />
 
@@ -68,11 +68,11 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
 ## Gallery
 
-<p align="center"><img title="Bibata Ghost" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Ghost.png">
+<p align="center"><img title="Bibata Ghost" src="https://github.com/silica-dev/Bibata_Cursor_Translucent/blob/master/image/Bibata_Ghost.png">
 </br><sub>Bibata Ghost</sub></p>
-<p align="center"><img title="Bibata Spirit" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/image/Bibata_Spirit.png">
+<p align="center"><img title="Bibata Spirit" src="https://github.com/silica-dev/Bibata_Cursor_Translucent/blob/master/image/Bibata_Spirit.png">
 </br><sub>Bibata Spirit</sub></p>
-<p align="center"><img title="Bibata Tinted" src="https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/dev/image/Bibata_Tinted.png">
+<p align="center"><img title="Bibata Tinted" src="https://github.com/silica-dev/Bibata_Cursor_Translucent/blob/dev/image/Bibata_Tinted.png">
 </br><sub>Bibata Tinted</sub></p>
 
 ## Installation
@@ -122,7 +122,7 @@ I'm an open source enthusiest and hobbyist programmer who wants to improve the u
 
   ### Windows
 
-  1. Get the lastest stable Windows release from the [releases tab](https://github.com/silicasandwhich/bibata_cursor_translucent/releases) on the github page.
+  1. Get the lastest stable Windows release from the [releases tab](https://github.com/silica-dev/bibata_cursor_translucent/releases) on the github page.
 
   2. Open the settings app
 
@@ -155,12 +155,12 @@ Most problems can be fixed by following instructions in the original ```Bibata_C
 
 ## Bugs
 
-Bugs should be reported [here](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/silica-dev/Bibata_Cursor_Translucent/issues) on the Github issues page.
 
 
 ## License and Terms
 
-```Bibata Cursor SET``` Collection is available under the terms of the GPL-3.0 license See [`LICENSE`](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent/blob/master/LICENSE) for details.
+```Bibata Cursor SET``` Collection is available under the terms of the GPL-3.0 license See [`LICENSE`](https://github.com/silica-dev/Bibata_Cursor_Translucent/blob/master/LICENSE) for details.
 
 ## Getting help
 
